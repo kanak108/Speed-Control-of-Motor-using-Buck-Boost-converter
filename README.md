@@ -50,7 +50,9 @@ The buck-boost converter adjusts the voltage supplied to the motor by stepping i
 The provided simulation files demonstrate the operation of the buck-boost converter for motor control, including both open-loop and closed-loop configurations. This setup is ideal for verifying the design parameters before implementation on actual hardware.
 
 ## Results
-Sample results, including speed response curves and system stability analysis, can be found in the `/results` folder. These results demonstrate the effectiveness of the buck-boost converter in regulating motor speed under varying load conditions.
+Results, including speed response curves and system stability analysis, can be found in the `/results` folder. These results demonstrate the effectiveness of the buck-boost converter in regulating motor speed under varying load conditions.
+![BUCK_BOOST_SPEED_CONTROL_page-0002](https://github.com/user-attachments/assets/dc958896-3803-4866-82f3-3e8f260ae69a)
+
 
 ## Contributing
 Feel free to contribute by:
